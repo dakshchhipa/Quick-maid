@@ -10,16 +10,15 @@ function ContactUs() {
         <h3 style={{ fontWeight: "bolder" }}>Contact Us</h3>
         <p style={{ marginTop: "18px" }}>
           <ImLocation2 />
-          &nbsp;&nbsp; Room No. 512, 5th Floor, IIT Delhi Techno Park,
-          Sector-130, Sonepat, Haryana - 247778
+          &nbsp;&nbsp; tdi-kingsbury,c-block,kundli,sonipat
         </p>
         <p>
           <MdEmail />
-          &nbsp;&nbsp; 9058139810ig@gmail.com
+          &nbsp;&nbsp; dakshchhipa1001@gmail.com
         </p>
         <p>
           <AiFillPhone />
-          &nbsp;&nbsp; 9058139810
+          &nbsp;&nbsp; 7665562122
         </p>
       </div>
     </>
